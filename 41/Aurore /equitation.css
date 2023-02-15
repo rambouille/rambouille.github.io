@@ -1,0 +1,38 @@
+body {
+
+letter-spacing: 1px;
+font-size: 50px;
+text-align: justify;
+font-family: 'Dancing Script', cursive;
+background-color: gray;
+}
+
+h1 {
+text-align: center;
+
+letter-spacing: 20px;
+font-family: 'Aboreto', cursive;
+}
+
+
+
+  .banner {
+     background-size: cover;
+     background-position: center;
+     padding: 150px 0;
+}
+   .banner h1 {
+     margin: 0;
+     color: white;
+     text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+     font-size: 70px;
+     font-weight: bold;
+	  font-family: 'Aboreto', cursive;
+   }
+         .banner p {
+           font-size: 20px;
+           color: white;
+           opacity: .7;
+           text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+	        font-family: 'Aboreto', cursive;
+}
